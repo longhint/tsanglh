@@ -4,3 +4,5 @@
 
 hahaha
 
+Getting and cleaning data and exploratory data analysis
+
